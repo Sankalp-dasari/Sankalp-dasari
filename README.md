@@ -39,12 +39,12 @@
 
 <div align="center">
 
- **💻 Computer Science** | **🔐 Cybersecurity**
-|:---:|:---:|:---:|
-| Data Structures & Algorithms | Applied Cryptography | Linear Algebra |
-| Computer Organization | Post-Quantum Cryptography | Probability & Statistics |
-| Software Design | Cybersecurity Fundamentals | Graph Theory |
-| Operating Systems | Information Security | Calculus I–III |
+**💻 Computer Science** | **🔐 Cybersecurity**
+|:---:|:---:|
+| Data Structures & Algorithms | Applied Cryptography |
+| Computer Organization | Post-Quantum Cryptography |
+| Software Design | Cybersecurity Fundamentals |
+| Operating Systems | Information Security |
 
 </div>
 
