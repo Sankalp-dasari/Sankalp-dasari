@@ -121,25 +121,23 @@ Hi! I am a Junior at Virginia tech majoring in computer Science, I enjoy problem
 
 <div align="center">
 
-### 🔬 Research Assistant | *Virginia Tech* | March 2025 – Present
-**🏛️ NSF-Funded Post-Quantum Cryptography Research ($247,000)**
+### 🤖 AI/ML Algorithm Engineer Intern | *Uplifty AI* | Aug 2025 – Present  
+**📍 Remote – Las Vegas, NV**
 
 </div>
 
-- 🔐 Conducting research on post-quantum cryptographic schemes, focusing on enhancing encryption security against quantum threats
-- ⚡ Implementing **Multivariate Goppa Codes** in the McEliece Cryptosystem using SageMath to increase resistance to quantum attacks
-- 📊 Analyzing algebraic coding theory and evaluating advanced cryptographic algorithms to support quantum-resilient encryption strategies
+- 🧠 Designing and developing **AI algorithms** using supervised learning and behavioral data for social media feeds, content moderation, and user recommendations.  
+- 🔗 Building intelligent **backend systems** for in-app goal-setting challenges among friend groups, fostering engagement and motivation.  
 
 <div align="center">
 
-### 🎓 Undergraduate Student Researcher | *Virginia Tech* | December 2024 – March 2025
-**🔑 McEliece Cryptosystem Implementation**
+### 🌍 Co-Founder & AI/ML Lead | *CarbonQapture (Virginia Tech IDPro)* | Jun 2025 – Present  
 
 </div>
 
-- 💻 Implemented the McEliece cryptosystem and developed algebraic decoders for Goppa codes using SageMath
-- 🧮 Applied **Patterson's algorithm** to decode Goppa-encrypted messages, achieving successful message recovery
-- ✅ Validated algorithm reliability for post-quantum systems through comprehensive testing
+- ⚛️ Spearheading **AI/ML research on CO₂ capture using MOFs**, integrating supervised learning & generative design with Python and Scikit-learn.  
+- 📊 Transitioning from deep learning to **interpretable models** (linear/logistic regression) to identify key MOF features.  
+- 📈 Applying **Bayesian Information Criterion (BIC)** to optimize model selection, targeting **15% higher accuracy** over neural network baselines.  
 
 <div align="center">
 
@@ -152,6 +150,27 @@ Hi! I am a Junior at Virginia tech majoring in computer Science, I enjoy problem
 - 📈 Improved student comprehension and projets performance through personalized teaching approaches.
 - 🤝 Collaborated with 15+ peer tutors to deliver comprehensive CS support across multiple projects.
 
+
+<div align="center">
+
+### 🚀 R&D Team – Sensing Sub Team | *GraVT Design Team* | Sept 2024 – May 2025  
+
+</div>
+
+- 📡 Developed a **real-time rocket tracking system** using Image Detection and ML with OpenCV and TensorFlow.  
+- ⚡ Improved object detection runtime by **30%** by refactoring TensorFlow-based models into optimized **C code**, enabling faster and more precise real-time data processing.  
+
+<div align="center">
+
+### 💻 Software Engineering Intern | *Prospect Infosystem Pvt. Ltd.* | Jun 2024 – Aug 2024  
+**📍 Hyderabad, India**
+
+</div>
+
+- 🏗️ Built **full-stack web applications** with **Java (Spring Boot)** for RESTful APIs and **Angular** for frontend development.  
+- 🔍 Implemented error logging via **Splunk** to trace and resolve backend faults in **Apache Kafka** pipelines.  
+- 🔄 Worked in an **Agile/Scrum environment**, following OOP and version-controlled distributed workflows.  
+- 
 ---
 
 ## 🚀 Featured Projects
