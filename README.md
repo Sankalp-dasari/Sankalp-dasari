@@ -53,11 +53,12 @@
 Hi! I am a Junior at Virginia tech majoring in computer Science, I enjoy problem-solving and that's what makes engineering my passion. The ability of turning lines of code into function truly fascinates me and I hope to pursue a minor in cybersecurity.
 
 ## Technical Skills
-- 🔑 Developer of **DNAVault**, a hybrid **AES + Kyber** DNA data encryption system  
-- 🌍 **AI/ML Lead** for **CarbonQapture**, building interpretable AI models for CO₂ capture (evolved from our award-winning Bitcamp project)  
-- 📊 Undergraduate researcher in **AI/ML and cryptography**, focusing on model interpretability and post-quantum resilience  
-- 📚 **Teaching Assistant for CS3114 (Data Structures & Algorithms)**, mentoring 200+ students  
-- 🚀 Incoming **AI/ML Algorithm Engineer Intern at Uplifty AI** (Fall 2025)
+
+- 🚀 **AI/ML Algorithm Engineer Intern at Uplifty AI** (Fall 2025)   
+- 🌍 ** Co-Founder & AI/ML Lead** for **CarbonQapture**, building interpretable AI models for CO₂ capture (evolved from our award-winning Bitcamp project) 
+- 📚 **Teaching Assistant for CS3114 (Data Structures & Algorithms)**, mentoring 200+ students
+- **Software Engineering Intern** at Propect Infosystem Pvt Ltd.
+
 
 <div align="center">
 
@@ -74,20 +75,22 @@ Hi! I am a Junior at Virginia tech majoring in computer Science, I enjoy problem
 
 ### Cybersecurity
 <p align="center">
-  <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" />
-  <img src="https://img.shields.io/badge/PennyLane-FF6B35?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cirq-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/IBM_Quantum-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/AES-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kyber-512-00599C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Post--Quantum%20Cryptography-861F41?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Symmetric%20Encryption-4B8BBE?style=for-the-badge" />
 </p>
 
 ### Frameworks & Libraries
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SageMath-4285F4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
 ### Developer Tools
@@ -95,6 +98,10 @@ Hi! I am a Junior at Virginia tech majoring in computer Science, I enjoy problem
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
@@ -106,7 +113,7 @@ Hi! I am a Junior at Virginia tech majoring in computer Science, I enjoy problem
 ## GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityasunke&show_icons=true&theme=dark&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=ffffff&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sankalp-dasari&show_icons=true&theme=dark&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=ffffff&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasunke&layout=compact&theme=dark&bg_color=0d1117&title_color=0ea5e9&text_color=ffffff&hide_border=true" />
 </div>
 
@@ -137,13 +144,13 @@ Hi! I am a Junior at Virginia tech majoring in computer Science, I enjoy problem
 <div align="center">
 
 ### 📚 Undergraduate Teaching Assistant | *Virginia Tech CS3114- Data Structures And Algorithms* | September 2025 – Present
-**👥 200+ Students Tutored**
+**👥 100+ Students Tutored**
 
 </div>
 
-- 🎯 Tutored 200+ students in Calculus I & II, breaking down complex problems into structured steps
-- 📈 Improved student comprehension and test performance through personalized teaching approaches
-- 🤝 Collaborated with 40+ peer tutors to deliver comprehensive math support across multiple courses
+- 🎯 Mentoring 100+ students in Data Structures and Algorithms helping with concept mastery and providing academic guidance.
+- 📈 Improved student comprehension and projets performance through personalized teaching approaches.
+- 🤝 Collaborated with 15+ peer tutors to deliver comprehensive CS support across multiple projects.
 
 ---
 
@@ -153,7 +160,7 @@ Hi! I am a Junior at Virginia tech majoring in computer Science, I enjoy problem
 
 ### 🌍 CarbonQapture | *April 2025*
 **🏆 Best Hack Promoting Public Health by Bloomberg - Bitcamp 2025**
-*Python • PennyLane • NumPy • Pandas • Git • GitHub*
+*Python • Scikit-Learn • NumPy • Pandas • PyTorch • GitHub*
 
 </div>
 
