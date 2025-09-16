@@ -46,9 +46,9 @@
 | 💻 Computer Science | 📊 Math / Theory |
 |:---:|:---:|
 | Data Structures & Algorithms | Discrete Mathematics |
-| Computer Organization I & II | Applied Combinatorics |
-| Software Design & Data Structures | Graph Theory |
-| Operating Systems | Multivariable Calculus |
+| Computer Organization I & II | Applied Combinatorics & Graph Theory |
+| Software Design & Data Structures | Cryptography |
+| Cloud Computing | Multivariable Calculus |
 |  | Linear Algebra |
 
 </div>
@@ -236,3 +236,4 @@ Hi! I am a Junior at Virginia tech majoring in computer Science, I enjoy problem
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=adityasunke&color=0ea5e9&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 </div>
+
