@@ -39,14 +39,15 @@
 
 <div align="center">
 
-**💻 Computer Science** | **🔐 Cybersecurity**
+**📚 Relevant Coursework**
 |:---:|:---:|
-| Data Structures & Algorithms | Applied Cryptography |
-| Computer Organization | Post-Quantum Cryptography |
-| Software Design | Cybersecurity Fundamentals |
-| Operating Systems | Information Security |
+| Data Structures & Algorithms | Discrete Mathematics |
+| Computer Organization I & II | Software Design & Data Structures |
+| Applied Combinatorics | Graph Theory |
+| Multivariable Calculus | Linear Algebra |
 
 </div>
+
 
 ## About
 
