@@ -39,12 +39,17 @@
 
 <div align="center">
 
-**📚 Relevant Coursework**
+<div align="center">
+
+### 📚 Relevant Coursework
+
+| 💻 Computer Science | 📊 Math / Theory |
 |:---:|:---:|
 | Data Structures & Algorithms | Discrete Mathematics |
-| Computer Organization I & II | Software Design & Data Structures |
-| Applied Combinatorics | Graph Theory |
-| Multivariable Calculus | Linear Algebra |
+| Computer Organization I & II | Applied Combinatorics |
+| Software Design & Data Structures | Graph Theory |
+| Operating Systems | Multivariable Calculus |
+|  | Linear Algebra |
 
 </div>
 
