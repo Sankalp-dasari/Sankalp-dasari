@@ -2,10 +2,10 @@
   <h1>LEHAR SAI SANKALP DASARI</h1>
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Computer+Science+%40+Virginia+Tech;AI/ML+%26+Cybersecurity;AI/ML+Lead+-+CarbonQapture;Developer+of+DNAVault;Junior+AI/ML+Algorithm+Engineer+-+Uplifty+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Computer+Science+%40+Virginia+Tech;AI/ML+%26+Cybersecurity;Co-Founder+&+AI/ML+Lead+-+CarbonQapture;AI/ML+Algorithm+Engineer+-+Uplifty+AI" alt="Typing SVG" />
 </div>
 <div align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=sankalp-dasari&bg_color=0d1117&color=0ea5e9&line=0ea5e9&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=sankalp-dasari&bg_color=0d1117&color=0ea5e9&line=0ea5e9&point=ffffff&area=true&hide_border=true&custom_title=Sankalp%20Dasari%27s%20Contribution%20Graph&radius=10" alt="Contribution Graph" />
 </div>
 
 ## 🎓 Education
