@@ -211,22 +211,22 @@ Hi! I am a Junior at Virginia tech majoring in computer Science, I enjoy problem
 ## Featured Repositories
 
 <div align="center">
-
   <a href="https://github.com/sankalp-dasari/DNAVault">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sankalp-dasari&repo=DNAVault&theme=dark&bg_color=0d1117&title_color=0ea5e9&text_color=ffffff&icon_color=0ea5e9&hide_border=true" />
   </a>
   <a href="https://github.com/sankalp-dasari/bitcamp25">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sankalp-dasari&repo=bitcamp25&theme=dark&bg_color=0d1117&title_color=0ea5e9&text_color=ffffff&icon_color=0ea5e9&hide_border=true" />
   </a>
-    <a href="https://github.com/Ishaannjain/HackViolet">
+</div>
+
+<div align="center">
+  <a href="https://github.com/Ishaannjain/HackViolet">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ishaannjain&repo=HackViolet&theme=dark&bg_color=0d1117&title_color=0ea5e9&text_color=ffffff&icon_color=0ea5e9&hide_border=true" />
   </a>
 </div>
 
 
 
-
-## What I'm Currently Exploring
 
 ## 🔭 What I'm Currently Exploring
 
@@ -250,3 +250,4 @@ Hi! I am a Junior at Virginia tech majoring in computer Science, I enjoy problem
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=adityasunke&color=0ea5e9&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 </div>
+
