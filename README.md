@@ -218,8 +218,8 @@ Hi! I am a Junior at Virginia tech majoring in computer Science, I enjoy problem
   <a href="https://github.com/sankalp-dasari/bitcamp25">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sankalp-dasari&repo=bitcamp25&theme=dark&bg_color=0d1117&title_color=0ea5e9&text_color=ffffff&icon_color=0ea5e9&hide_border=true" />
   </a>
-  <a href="https://github.com/ishaanjain02/hackviolet">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishaanjain02&repo=hackviolet&theme=dark&bg_color=0d1117&title_color=0ea5e9&text_color=ffffff&icon_color=0ea5e9&hide_border=true" />
+    <a href="https://github.com/Ishaannjain/HackViolet">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ishaannjain&repo=HackViolet&theme=dark&bg_color=0d1117&title_color=0ea5e9&text_color=ffffff&icon_color=0ea5e9&hide_border=true" />
   </a>
 </div>
 
