@@ -2,7 +2,8 @@
   <h1>LEHAR SAI SANKALP DASARI</h1>
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Computer+Science+%40+Virginia+Tech;AI/ML+%26+Cybersecurity;Co-Founder+&+AI/ML+Lead+-+CarbonQapture;AI/ML+Algorithm+Engineer+-+Uplifty+AI" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=Computer+Science+%40+Virginia+Tech;Cybersecurity+Minor;AI/ML+Algorithm+Engineer+-+Uplifty+AI;Co-Founder+%26+AI/ML+Lead+-+CarbonQapture" alt="Typing SVG" />
+
 </div>
 <div align="center">
  <img src="https://ghchart.rshah.org/0ea5e9/sankalp-dasari" alt="Sankalp Dasari's GitHub Contribution Graph" />
@@ -63,7 +64,7 @@ Hi! I am a Junior at Virginia tech majoring in computer Science, I enjoy problem
 - 🚀 **AI/ML Algorithm Engineer Intern at Uplifty AI** (Fall 2025)   
 - 🌍 ** Co-Founder & AI/ML Lead** for **CarbonQapture**, building interpretable AI models for CO₂ capture (evolved from our award-winning Bitcamp project) 
 - 📚 **Teaching Assistant for CS3114 (Data Structures & Algorithms)**, mentoring 200+ students
-- **Software Engineering Intern** at Propect Infosystem Pvt Ltd.
+- **Software Engineering Intern** at Propect Infosystem Pvt Ltd. (Summer 24)
 
 
 <div align="center">
@@ -176,7 +177,8 @@ Hi! I am a Junior at Virginia tech majoring in computer Science, I enjoy problem
 - 🏗️ Built **full-stack web applications** with **Java (Spring Boot)** for RESTful APIs and **Angular** for frontend development.  
 - 🔍 Implemented error logging via **Splunk** to trace and resolve backend faults in **Apache Kafka** pipelines.  
 - 🔄 Worked in an **Agile/Scrum environment**, following OOP and version-controlled distributed workflows.  
-- 
+  
+
 ---
 
 ## 🚀 Featured Projects
@@ -217,10 +219,13 @@ Hi! I am a Junior at Virginia tech majoring in computer Science, I enjoy problem
 
 ## What I'm Currently Exploring
 
-- Advanced quantum error correction techniques and their implementation in NISQ devices
-- Applications of variational quantum algorithms in computational chemistry and materials science
-- Integration of quantum machine learning with classical deep learning architectures
-- Development of hybrid quantum-classical algorithms for optimization problems
+## 🔭 What I'm Currently Exploring
+
+- **AI/ML for Materials Discovery** – Interpretable models (regression, ensemble methods) for CO₂ capture with MOFs  
+- **Post-Quantum Cryptography** – Hybrid encryption systems (AES + Kyber) resilient against quantum threats  
+- **Applied Machine Learning** – Building real-time recommendation & goal-setting algorithms at Uplifty AI  
+- **Scalable Systems & Cloud** – Experience with Spring Boot, Angular, Kafka, Splunk, Docker, and AWS for distributed applications  
+
 
 ## Connect
 
@@ -236,4 +241,3 @@ Hi! I am a Junior at Virginia tech majoring in computer Science, I enjoy problem
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=adityasunke&color=0ea5e9&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 </div>
-
