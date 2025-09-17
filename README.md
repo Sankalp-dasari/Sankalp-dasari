@@ -2,8 +2,7 @@
   <h1>LEHAR SAI SANKALP DASARI</h1>
 </div>
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=Computer+Science+%40+Virginia+Tech;Cybersecurity+Minor;AI/ML+Algorithm+Engineer+-+Uplifty+AI;Co-Founder+%26+AI/ML+Lead+-+CarbonQapture" alt="Typing SVG" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Computer+Science+%40+Virginia+Tech;AI/ML+%26+Cybersecurity;Co-Founder+&+AI/ML+Lead+-+CarbonQapture;AI/ML+Algorithm+Engineer+-+Uplifty+AI" alt="Typing SVG" />
 </div>
 <div align="center">
  <img src="https://ghchart.rshah.org/0ea5e9/sankalp-dasari" alt="Sankalp Dasari's GitHub Contribution Graph" />
@@ -212,10 +211,20 @@ Hi! I am a Junior at Virginia tech majoring in computer Science, I enjoy problem
 ## Featured Repositories
 
 <div align="center">
+
   <a href="https://github.com/sankalp-dasari/DNAVault">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sankalp-dasari&repo=dnavault&theme=dark&bg_color=0d1117&title_color=0ea5e9&text_color=ffffff&icon_color=0ea5e9&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sankalp-dasari&repo=DNAVault&theme=dark&bg_color=0d1117&title_color=0ea5e9&text_color=ffffff&icon_color=0ea5e9&hide_border=true" />
+  </a>
+  <a href="https://github.com/sankalp-dasari/bitcamp25">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sankalp-dasari&repo=bitcamp25&theme=dark&bg_color=0d1117&title_color=0ea5e9&text_color=ffffff&icon_color=0ea5e9&hide_border=true" />
+  </a>
+  <a href="https://github.com/ishaanjain02/hackviolet">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishaanjain02&repo=hackviolet&theme=dark&bg_color=0d1117&title_color=0ea5e9&text_color=ffffff&icon_color=0ea5e9&hide_border=true" />
   </a>
 </div>
+
+
+
 
 ## What I'm Currently Exploring
 
