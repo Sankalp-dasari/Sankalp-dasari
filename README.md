@@ -120,7 +120,7 @@ Hi! I am a Junior at Virginia tech majoring in computer Science, I enjoy problem
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sankalp-dasari&show_icons=true&theme=dark&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=ffffff&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasunke&layout=compact&theme=dark&bg_color=0d1117&title_color=0ea5e9&text_color=ffffff&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankalp-dasari&layout=compact&theme=dark&bg_color=0d1117&title_color=0ea5e9&text_color=ffffff&hide_border=true" />
 </div>
 
 ## 💼 Work Experience
@@ -250,4 +250,3 @@ Hi! I am a Junior at Virginia tech majoring in computer Science, I enjoy problem
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=adityasunke&color=0ea5e9&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 </div>
-
